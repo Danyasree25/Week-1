@@ -1,2 +1,2 @@
-# Crop_Fertilizer_RS
+# Week 1
 crop &amp; fertilizer recommendation system 
